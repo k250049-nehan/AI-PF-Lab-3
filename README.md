@@ -16,8 +16,8 @@ _This is Italic af_
 <br/>
 `Ordered List`
 <br/>
-1. PF-lab1
-2. PF-lab2
-3. PF-lab3
+  1. PF-lab1
+  2. PF-lab2
+  3. PF-lab3
 <br/>
 Learning GitHub
